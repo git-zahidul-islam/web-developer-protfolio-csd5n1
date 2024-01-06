@@ -1,0 +1,21 @@
+/* common style here */
+* {
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+.primary-btn {
+  padding: 18px 35px;
+}
+.btn {
+  border: 0;
+  background-color: #fd6e0a;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+/* header design */
+
+
+
