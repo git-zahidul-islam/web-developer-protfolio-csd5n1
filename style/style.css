@@ -6,14 +6,37 @@
   font-family: "Open Sans", sans-serif;
 }
 .primary-btn {
-  padding: 18px 35px;
+  padding: 15px 35px;
   border: 0;
-  background-color: #fd6e0a;
+  background: #fd6e0a;
+  border-radius: 5px;
   font-size: 20px;
   font-weight: 700;
-  border-radius: 5px;
+  color: white;
 }
+.text-primary {
+  color: #FD6E0A;
+}
+
+
 /* header design */
-
-
-
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-title {
+  color:#181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  margin-right: 50px;
+}
+nav li > a {
+  color: #474747;
+}
