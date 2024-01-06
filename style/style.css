@@ -24,6 +24,14 @@
   font-size: 35px;
   font-weight: 700;
 }
+.diff-btn {
+  background: white;
+  color: #FD6E0A;
+  border: 1px solid #FD6E0A;
+}
+
+
+
 /* header design */
 .header {
   background-color: #fff8f3;
@@ -220,4 +228,8 @@ footer {
 }
 .text-area {
   height: 150px;
+}
+/* font awesome icon */
+.i-con {
+  margin-right: 10px;
 }
